@@ -80,7 +80,7 @@ export const SITE_DATA = {
         'Mobile-friendly layout',
         'Business information and services',
         'WhatsApp/contact links',
-        'One revision round',
+        'Fixed Revision rounds',
         '7 days of post-launch bug fixes'
       ]
     },
@@ -99,7 +99,7 @@ export const SITE_DATA = {
         'Mobile-friendly design',
         'WhatsApp, phone and location links',
         'Basic SEO title and description',
-        'Two revision rounds',
+        'Revision rounds',
         '14 days of post-launch bug fixes'
       ]
     },
@@ -117,11 +117,11 @@ export const SITE_DATA = {
         'Services, gallery, FAQ or testimonials using client-provided content',
         'Basic enquiry form (if supported service configured)',
         'Basic SEO setup',
-        'Three revision rounds',
+        'Revision rounds',
         '30 days of post-launch bug fixes'
       ]
     }
   ],
 
-  disclaimer: 'Domain, paid hosting and third-party service charges are separate where applicable. Custom functionality is quoted separately.'
+  disclaimer: 'The features offered are negotiable and can be added, modified, or removed based on your specific requirements, preferences, and budget..'
 };
